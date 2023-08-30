@@ -1,0 +1,1 @@
+console.log('1.Layout valid: 10\n2.Semantic layout: 20\n3.The layout complies with the layout: 39\n4.css requirements: 12\n5.Interactivity implemented through css: 20')
